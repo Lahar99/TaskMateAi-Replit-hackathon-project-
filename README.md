@@ -12,13 +12,15 @@ TaskMateAI combines an interactive frontend with a powerful backend to deliver a
 
 This project was created as part of the **Replit Hackathon** to showcase full-stack development and AI integration in productivity tools.
 
-## 🛠️ Features
+## ✨ Features
 
-- Add, update, and delete tasks
-- Categorised task views (Pending, Completed, In-progress)
-- AI insights on task patterns and recommendations
-- Team collaboration support
-- Beautiful and intuitive UI with responsive design
+- ✅ AI Task Suggestions  
+- ✅ Smart Reminders  
+- ✅ User Authentication  
+- ✅ MongoDB Cloud Database  
+- ✅ Real-time updates  
+- ✅ Clean UI  
+
 <p align="center">
   <img src="./assets/banner.png" width="900"/>
 </p>
@@ -27,14 +29,27 @@ This project was created as part of the **Replit Hackathon** to showcase full-st
 <p align="center">
 Your smart AI task manager for productivity 🚀
 </p>
+<p align="center">
+  <a href="https://github.com/Lahar99/TaskMateAi">
+    <img src="https://img.shields.io/badge/GitHub-Repository-black?style=for-the-badge&logo=github"/>
+  </a>
+  <a href="https://taskmate-demo.vercel.app">
+    <img src="https://img.shields.io/badge/Live-Demo-blue?style=for-the-badge"/>
+  </a>
+  <a href="https://www.mongodb.com/atlas">
+    <img src="https://img.shields.io/badge/Database-MongoDB-green?style=for-the-badge&logo=mongodb"/>
+  </a>
+</p>
 
 
-## 🧩 Tech Stack
 
-✔️ **Frontend:** React / TypeScript / Tailwind CSS  
-✔️ **Backend:** Node.js / Express  
-✔️ **Database:** (Specify DB if used, e.g., MongoDB)  
-✔️ **AI / Predictions:** (Mention libs/APIs used if applicable)
+## 🛠️ Tech Stack
+
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Node](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express-black?style=for-the-badge)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+
 
 ## 🚀 Getting Started
 

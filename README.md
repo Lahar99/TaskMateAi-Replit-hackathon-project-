@@ -24,15 +24,15 @@ This project was created as part of the **Replit Hackathon** to showcase full-st
 ## 📸 Screenshots
 
 <p align="center">
-  <img src="./Assets/taskmate%20pics/login.jpeg" width="900"/>
+  <img src="https://raw.githubusercontent.com/Lahar99/TaskMateAi-Replit-hackathon-project-/master/Assets/taskmate%20pics/login.jpeg" width="900"/>
 </p>
 
 <p align="center">
-  <img src="./Assets/taskmate%20pics/report.jpeg" width="900"/>
+  <img src="https://raw.githubusercontent.com/Lahar99/TaskMateAi-Replit-hackathon-project-/master/Assets/taskmate%20pics/report.jpeg" width="900"/>
 </p>
 
 <p align="center">
-  <img src="./Assets/taskmate%20pics/task%20complete.jpeg" width="900"/>
+  <img src="https://raw.githubusercontent.com/Lahar99/TaskMateAi-Replit-hackathon-project-/master/Assets/taskmate%20pics/task%20complete.jpeg" width="900"/>
 </p>
 
 

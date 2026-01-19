@@ -22,18 +22,17 @@ This project was created as part of the **Replit Hackathon** to showcase full-st
 - ✅ Clean UI  
 
 ## 📸 Screenshots
+## Screenshots
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Lahar99/TaskMateAi-Replit-hackathon-project-/master/Assets/taskmate%20pics/login.jpeg" width="900"/>
-</p>
+### Login Page  
+![Login](Assets/taskmate%20pics/login.jpeg)
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Lahar99/TaskMateAi-Replit-hackathon-project-/master/Assets/taskmate%20pics/report.jpeg" width="900"/>
-</p>
+### Report Page  
+![Report](Assets/taskmate%20pics/report.jpeg)
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Lahar99/TaskMateAi-Replit-hackathon-project-/master/Assets/taskmate%20pics/task%20complete.jpeg" width="900"/>
-</p>
+### Task Completed Page  
+![Task Complete](Assets/taskmate%20pics/task%20complete.jpeg)
+
 
 
 

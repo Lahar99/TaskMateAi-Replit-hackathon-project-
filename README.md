@@ -22,6 +22,8 @@ This project was created as part of the **Replit Hackathon** to showcase full-st
 - ✅ Clean UI  
 
 ## 📸 Screenshots
+<img width="1600" height="951" alt="image" src="https://github.com/user-attachments/assets/42ccfa45-685b-46f6-8b68-c6579b7aeba0" />
+
 
 ### 🔐 Login Page  
 ![Login](Assets/taskmate%20pics/login.jpeg)

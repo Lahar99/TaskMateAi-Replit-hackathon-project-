@@ -1,4 +1,5 @@
-#🚀 TaskMateAI
+
+## 🚀 TaskMateAI
 <p align="center">
   <img src="https://github.com/user-attachments/assets/5e50b029-1181-45ef-ac72-3c78b1b889b0" />
 </p>

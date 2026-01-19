@@ -21,25 +21,20 @@ This project was created as part of the **Replit Hackathon** to showcase full-st
 - ✅ Real-time updates  
 - ✅ Clean UI  
 
+## 📸 Screenshots
+
 <p align="center">
-  <img src="./assets/banner.png" width="900"/>
+  <img src="./Assets/taskmate%20pics/login.jpeg" width="900"/>
 </p>
 
-<h1 align="center">TaskMate AI</h1>
 <p align="center">
-Your smart AI task manager for productivity 🚀
+  <img src="./Assets/taskmate%20pics/report.jpeg" width="900"/>
 </p>
+
 <p align="center">
-  <a href="https://github.com/Lahar99/TaskMateAi">
-    <img src="https://img.shields.io/badge/GitHub-Repository-black?style=for-the-badge&logo=github"/>
-  </a>
-  <a href="https://taskmate-demo.vercel.app">
-    <img src="https://img.shields.io/badge/Live-Demo-blue?style=for-the-badge"/>
-  </a>
-  <a href="https://www.mongodb.com/atlas">
-    <img src="https://img.shields.io/badge/Database-MongoDB-green?style=for-the-badge&logo=mongodb"/>
-  </a>
+  <img src="./Assets/taskmate%20pics/task%20complete.jpeg" width="900"/>
 </p>
+
 
 
 

@@ -25,14 +25,12 @@ This project was created as part of the **Replit Hackathon** to showcase full-st
 <img width="1600" height="951" alt="image" src="https://github.com/user-attachments/assets/42ccfa45-685b-46f6-8b68-c6579b7aeba0" />
 
 
-### 🔐 Login Page  
-![Login](Assets/taskmate%20pics/login.jpeg)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/....login.jpeg" width="30%" />
+  <img src="https://raw.githubusercontent.com/....report.jpeg" width="30%" />
+  <img src="https://raw.githubusercontent.com/....task%20complete.jpeg" width="30%" />
+</p>
 
-### 📊 Report Page  
-![Report](Assets/taskmate%20pics/report.jpeg)
-
-### ✅ Task Completed  
-![Task Complete](Assets/taskmate%20pics/task%20complete.jpeg)
 
 
 

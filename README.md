@@ -111,8 +111,8 @@ npm run test
 
 
 <p align="center">
-  <a href="https://replit.com/@Lahar99/TaskMateAI">
-    <img src="https://img.shields.io/badge/Live-Demo-green?style=for-the-badge" />
+  <a href="https://www.figma.com/design/TuQdVdRX0ed1BSsSdCzWR8/canvas" target="_blank">
+    <img src="https://img.shields.io/badge/Live-Demo-Figma-red?style=for-the-badge&logo=figma&logoColor=white" />
   </a>
 </p>
 

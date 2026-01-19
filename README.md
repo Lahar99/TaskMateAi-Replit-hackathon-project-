@@ -1,4 +1,6 @@
 # 🚀 TaskMateAI
+<p align="center"><img width="1024" height="1024" alt="applogobyakash" src="https://github.com/user-attachments/assets/5e50b029-1181-45ef-ac72-3c78b1b889b0" /></p>
+
 
 TaskMateAI is a smart task management web and backend application built during the Replit Hackathon to help users track, organize, and analyze their daily tasks using intelligent automation and AI-assisted insights.
 
@@ -28,12 +30,6 @@ This project was created as part of the **Replit Hackathon** to showcase full-st
   <img src="https://github.com/user-attachments/assets/6a596a58-1f34-4f1a-ad94-1cf4fe5cc9d8" width="32%" />
   <img src="https://github.com/user-attachments/assets/4e8f8974-4da9-4a49-a9be-c0d417d62e56" width="32%" />
 </p>
-
-<p align="center">
-<b>Login</b> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <b>Report</b> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <b>Task Completed</b>
-</p>
-
-
 
 
 

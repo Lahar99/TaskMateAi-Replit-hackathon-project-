@@ -101,6 +101,7 @@ npm test
 
 # frontend tests
 npm run test
+```
 
 ![Version](https://img.shields.io/badge/version-1.0.0-blue)
 ![License](https://img.shields.io/badge/license-MIT-green)
@@ -115,3 +116,4 @@ npm run test
   </a>
 </p>
 
+ 

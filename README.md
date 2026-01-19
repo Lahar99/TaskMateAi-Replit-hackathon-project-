@@ -21,18 +21,16 @@ This project was created as part of the **Replit Hackathon** to showcase full-st
 - ✅ Real-time updates  
 - ✅ Clean UI  
 
-## 📸 Screenshots  
+## 📸 Screenshots
 
-<p align="center">
-  <img src="Assets/taskmate%20pics/login.jpeg" width="30%" />
-  <img src="Assets/taskmate%20pics/report.jpeg" width="30%" />
-  <img src="Assets/taskmate%20pics/task%20complete.jpeg" width="30%" />
-</p>
+### 🔐 Login Page  
+![Login](Assets/taskmate%20pics/login.jpeg)
 
-<p align="center">
-<b>Login</b> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <b>Report</b> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <b>Task Completed</b>
-</p>
+### 📊 Report Page  
+![Report](Assets/taskmate%20pics/report.jpeg)
 
+### ✅ Task Completed  
+![Task Complete](Assets/taskmate%20pics/task%20complete.jpeg)
 
 
 

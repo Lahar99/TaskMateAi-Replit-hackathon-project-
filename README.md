@@ -29,6 +29,10 @@ This project was created as part of the **Replit Hackathon** to showcase full-st
   <img src="https://github.com/user-attachments/assets/4e8f8974-4da9-4a49-a9be-c0d417d62e56" width="32%" />
 </p>
 
+<p align="center">
+<b>Login</b> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <b>Report</b> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <b>Task Completed</b>
+</p>
+
 
 
 

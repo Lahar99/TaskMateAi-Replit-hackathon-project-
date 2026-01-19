@@ -22,13 +22,11 @@ This project was created as part of the **Replit Hackathon** to showcase full-st
 - ✅ Clean UI  
 
 ## 📸 Screenshots
-<img width="1600" height="951" alt="image" src="https://github.com/user-attachments/assets/42ccfa45-685b-46f6-8b68-c6579b7aeba0" />
-
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/....login.jpeg" width="30%" />
-  <img src="https://raw.githubusercontent.com/....report.jpeg" width="30%" />
-  <img src="https://raw.githubusercontent.com/....task%20complete.jpeg" width="30%" />
+  <img src="https://github.com/user-attachments/assets/42ccfa45-685b-46f6-8b68-c6579b7aeba0" width="32%" />
+  <img src="https://github.com/user-attachments/assets/6a596a58-1f34-4f1a-ad94-1cf4fe5cc9d8" width="32%" />
+  <img src="https://github.com/user-attachments/assets/4e8f8974-4da9-4a49-a9be-c0d417d62e56" width="32%" />
 </p>
 
 

@@ -112,7 +112,7 @@ npm run test
 
 <p align="center">
   <a href="https://www.figma.com/design/TuQdVdRX0ed1BSsSdCzWR8/canvas" target="_blank">
-    <img src="https://img.shields.io/badge/Live-Demo-Figma-red?style=for-the-badge&logo=figma&logoColor=white" />
+    <img src="https://img.shields.io/badge/Live%20Demo-Figma-red?style=for-the-badge" />
   </a>
 </p>
 

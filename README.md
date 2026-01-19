@@ -102,5 +102,16 @@ npm test
 # frontend tests
 npm run test
 
+![Version](https://img.shields.io/badge/version-1.0.0-blue)
+![License](https://img.shields.io/badge/license-MIT-green)
+![Build](https://img.shields.io/badge/build-passing-brightgreen)
+![Last Commit](https://img.shields.io/github/last-commit/Lahar99/TaskMateAi-Replit-hackathon-project-)
+![Contributors](https://img.shields.io/badge/contributors-1-orange)
 
+
+<p align="center">
+  <a href="https://replit.com/@Lahar99/TaskMateAI">
+    <img src="https://img.shields.io/badge/Live-Demo-green?style=for-the-badge" />
+  </a>
+</p>
 
